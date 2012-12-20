@@ -1,0 +1,5 @@
+Add validation methods
+Add column generator
+Add simple_form/rails form helpers
+Improve to_money object so blank isn't accepted as 0 unless otherwise specified
+Allow input of format options to money input
