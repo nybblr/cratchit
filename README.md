@@ -1,6 +1,6 @@
 Cratchit
 ========
-This gem was developed by Jonathan Martin for use in a company eCommerce project.
+This gem was developed for use in a company eCommerce project.
 
 RubyMoney is easily the best money class for Ruby out there, but implementation as an ActiveRecord datatype has traditionally been prone to bugs and core level hacks. This gem aims to bring the incredible foundation of RubyMoney into the slick Ruby on Rails framework by exposing money as an ActiveRecord column type.
 
